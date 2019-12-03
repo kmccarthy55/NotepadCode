@@ -4,5 +4,3 @@ Kyle
 test
 
 test
-
-Monkey
